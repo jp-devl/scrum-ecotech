@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vEeUS6ooubnDlFhdFB9B-261" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1670" y="20" width="520" height="479.5" as="geometry" />
+          <mxGeometry x="1690" y="500" width="520" height="479.5" as="geometry" />
         </mxCell>
         <mxCell id="vEeUS6ooubnDlFhdFB9B-222" value="ID01: CADASTRO USUÁRIO ( 5 PONTOS )" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="vEeUS6ooubnDlFhdFB9B-261">
           <mxGeometry width="160" height="60" as="geometry" />
@@ -258,7 +258,7 @@
           <mxGeometry x="120" y="82.73" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vEeUS6ooubnDlFhdFB9B-295" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="840" y="20.75" width="798.6600000000001" height="79.25" as="geometry" />
+          <mxGeometry x="840" y="680" width="798.6600000000001" height="79.25" as="geometry" />
         </mxCell>
         <mxCell id="vEeUS6ooubnDlFhdFB9B-185" value="" style="group" vertex="1" connectable="0" parent="vEeUS6ooubnDlFhdFB9B-295">
           <mxGeometry y="6" width="162.31" height="70.5" as="geometry" />
@@ -318,7 +318,7 @@
           <mxGeometry x="730" y="8.09" width="25.58" height="25.58" as="geometry" />
         </mxCell>
         <mxCell id="vEeUS6ooubnDlFhdFB9B-309" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="840.0013342898137" y="1180" width="649.9986657101863" height="172" as="geometry" />
+          <mxGeometry x="916.0013342898137" y="1180" width="649.9986657101863" height="172" as="geometry" />
         </mxCell>
         <mxCell id="vEeUS6ooubnDlFhdFB9B-44" value="" style="group" vertex="1" connectable="0" parent="vEeUS6ooubnDlFhdFB9B-309">
           <mxGeometry x="9.998665710186287" y="10" width="180" height="120" as="geometry" />
